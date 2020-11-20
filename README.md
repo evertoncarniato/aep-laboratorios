@@ -1,6 +1,7 @@
 # AEP - Reserva de Laboratórios da Unicesumar
 
 * Você pode acessar o protótipo navegável [aqui](https://www.figma.com/proto/Ia58GiY0gbMAJAG9UdsUIc/Mockups---Reserva-de-Laboratórios?node-id=47%3A408&viewport=2482%2C619%2C1.7377029657363892&scaling=scale-down)
+* Você pode assistir ao vídeo de apresentação [aqui](https://youtu.be/QGDgFHFa2Ic)
 
 ### CONTEXTO
 Em ambientes educacionais como universidades possuímos recursos (notebooks, laboratórios de informática, salas de aula e auditórios) à disposição dos departamentos. Um bom gerenciamento desses recursos envolve um controle de seu uso de modo que não exista coincidência na data e horário de utilização e que todos os usuários possam ter acesso de maneira justa e organizada. Manualmente, a reserva de recursos requer atenção e na medida em que a demanda por reservas aumenta, torna-se mais complexo controlar um grande número de requisições. Além disso, como reservas são constantemente alteradas ou excluídas, gerenciá-las sem o auxílio de uma ferramenta computacional se torna mais complicado. Visando melhorar o processo de reserva de recursos, neste trabalho é proposto o desenvolvimento do Sistema de Reserva de Recursos para uma universidade.
